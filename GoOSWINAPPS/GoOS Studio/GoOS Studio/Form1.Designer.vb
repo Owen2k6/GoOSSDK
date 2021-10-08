@@ -40,6 +40,7 @@ Partial Class FormMain
         Me.TextBox1.Name = "TextBox1"
         Me.TextBox1.Size = New System.Drawing.Size(448, 474)
         Me.TextBox1.TabIndex = 0
+        Me.TextBox1.Text = "else if (input.ToLower() == ""APP-NAME"")" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "            {" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "            }"
         '
         'Label1
         '

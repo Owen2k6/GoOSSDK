@@ -1,0 +1,6 @@
+D:\Users\Owen\GoOSSDK\GoOSWINAPPS\GoOS Studio\GoOS Studio\obj\Debug\netcoreapp3.1\GoOS Studio.vbproj.AssemblyReference.cache
+D:\Users\Owen\GoOSSDK\GoOSWINAPPS\GoOS Studio\GoOS Studio\obj\Debug\netcoreapp3.1\GoOS_Studio.FormMain.resources
+D:\Users\Owen\GoOSSDK\GoOSWINAPPS\GoOS Studio\GoOS Studio\obj\Debug\netcoreapp3.1\GoOS Studio.vbproj.GenerateResource.cache
+D:\Users\Owen\GoOSSDK\GoOSWINAPPS\GoOS Studio\GoOS Studio\obj\Debug\netcoreapp3.1\GoOS Studio.AssemblyInfoInputs.cache
+D:\Users\Owen\GoOSSDK\GoOSWINAPPS\GoOS Studio\GoOS Studio\obj\Debug\netcoreapp3.1\GoOS Studio.AssemblyInfo.vb
+D:\Users\Owen\GoOSSDK\GoOSWINAPPS\GoOS Studio\GoOS Studio\obj\Debug\netcoreapp3.1\GoOS Studio.vbproj.CoreCompileInputs.cache
